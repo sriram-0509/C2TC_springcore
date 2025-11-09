@@ -1,0 +1,11 @@
+com\springannotations\application\ApplicationConfig.class
+com\springannotations\application\Book.class
+com\springannotations\application\Order.class
+com\springannotations\app\AppConfig.class
+com\springannotations\app\Teacher.class
+com\springxml\app\InvalidCaratException.class
+com\springannotations\app\AnnotationConfigurationApplication.class
+com\springannotations\app\MusicTeacher.class
+com\springxml\app\GoldRateInfo.class
+com\springxml\app\GoldRateInfoMain.class
+com\springannotations\application\BookMain.class
